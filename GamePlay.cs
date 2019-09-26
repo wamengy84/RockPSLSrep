@@ -33,6 +33,7 @@ namespace RSPLSproject
         }
         public void DisplayGameRules()
         {
+            Console.WriteLine("The following is a list of winning and losing combinations.");
             Console.WriteLine("Rock crushes Scissor");
             Console.WriteLine("Rock crushes Lizard");
             Console.WriteLine("Paper covers Rock");
@@ -43,7 +44,7 @@ namespace RSPLSproject
             Console.WriteLine("Lizard eats Paper");
             Console.WriteLine("Spock smashes Scissor");
             Console.WriteLine("Spock vaporizes Rock");
-            Console.WriteLine("Best out of 3 rounds wins the overall game");
+            Console.WriteLine("Which ever player wins best out of 3 rounds wins the overall game.");
             
         }
        

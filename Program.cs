@@ -12,7 +12,9 @@ namespace RSPLSproject
         {
             Console.WriteLine("Welcome to Rock, Paper, Scissor, Lizard, Spock!!!");
             GamePlay rockPaper = new GamePlay();
+            Player playerName = new Player();
             rockPaper.RunGame();
+            playerName.Run();
             Console.ReadLine();
             
 

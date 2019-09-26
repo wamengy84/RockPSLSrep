@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RSPLSproject
 {
-    class ComputerPlayer
+    class ComputerPlayer: Player
     {
 
         //member variable(has a)
