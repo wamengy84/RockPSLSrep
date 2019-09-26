@@ -10,7 +10,9 @@ namespace RSPLSproject
     {
 
         //member variable(has a)
-
+        public string name;
+        public int score;
+        public string gestures;
 
         //constructor(spawner)
         public ComputerPlayer()

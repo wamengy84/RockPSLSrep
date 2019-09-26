@@ -10,7 +10,9 @@ namespace RSPLSproject
     {
 
         //member variable(has a)
-      
+        string playerNumberOne;
+        string playerNumberTwo;
+
 
 
         //constructor(spawner)
