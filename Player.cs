@@ -6,20 +6,19 @@ using System.Threading.Tasks;
 
 namespace RSPLSproject
 {
-    class GamePlay
+    class Player
     {
 
         //member variable(has a)
-      
 
 
         //constructor(spawner)
-        public GamePlay()
+        public Player()
         {
-            
+
         }
 
+
         //member method(can do)
-        
     }
 }
