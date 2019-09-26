@@ -43,7 +43,7 @@ namespace RSPLSproject
             Console.WriteLine("Lizard eats Paper");
             Console.WriteLine("Spock smashes Scissor");
             Console.WriteLine("Spock vaporizes Rock");
-            Console.WriteLine("Best out of 3 rounds wins");
+            Console.WriteLine("Best out of 3 rounds wins the overall game");
             
         }
        
